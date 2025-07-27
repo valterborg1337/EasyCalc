@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="EasyCalc:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/EasyCalc_jar</output-path>
-    <root id="archive" name="EasyCalc.jar">
-      <element id="module-output" name="EasyCalc" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fathzer/javaluator/3.0.3/javaluator-3.0.3.jar" path-in-jar="/" />
-    </root>
-  </artifact>
-</component>
